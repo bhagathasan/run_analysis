@@ -1,5 +1,4 @@
-# run_analysis
-#DESCRIPTIONS OF THE VARIABLES USED IN THE RUN_ANALYSIS
+# run_analysis:DESCRIPTIONS OF THE VARIABLES USED
 
 -"features":
 a character vector for storing the names of 561 features.
