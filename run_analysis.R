@@ -1,4 +1,4 @@
-library(dplyr)
+.library(dplyr)
 setwd("C:\\Users\\Hasan\\Statistics\\R\\UCI HAR Dataset")
 
 features=as.character(read.table("features.txt")[[2]])		
@@ -35,5 +35,5 @@ data2=data %>%
 	summarize_all(mean)
 
 #writing the tidy data file into a txt document
-write.table(data2,"tidy data",row.names=FALSE)
+write.table(data2,"tidy data.txt",row.names=FALSE)
 
