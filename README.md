@@ -1,4 +1,4 @@
-# run_analysis
+ # run_analysis :Description of the data cleaning process
 The goal of the analysis is to obtain a tidy dataset which gives average of the mean and sd of the measurements obtained from the smartphone.
 
 1.The data is first read into R and stored in appropriate variables.
